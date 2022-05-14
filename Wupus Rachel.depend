@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1561232202 source:c:\users\lukin\desktop\wumpus movimento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1561253070 source:c:\users\rachel\desktop\wumpus movimento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1561602384 source:e:\pi\tlow2\wumpus movimento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1561498810 source:d:\pi\tlow2\wumpus movimento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1561602384 source:c:\users\rachel\desktop\rachel\wumpus movimento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
